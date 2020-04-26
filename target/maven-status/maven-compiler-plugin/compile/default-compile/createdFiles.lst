@@ -1,0 +1,4 @@
+com/kural/cassandra/repository/TutorialRepository.class
+com/kural/cassandra/SpringBootDataCassandraApplication.class
+com/kural/cassandra/model/Tutorial.class
+com/kural/cassandra/controller/TutorialController.class
